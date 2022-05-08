@@ -12,7 +12,7 @@ Alla temafiler finns i `system/themes` mappen. Alla layoutfiler finns i `system/
 
 ## Installation
 
-[Ladda ner tillägg](https://github.com/pftnhr/yellow-extensions/releases/download/mittelhausen/mittelhausen.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
+[Ladda ner tillägg](https://github.com/pftnhr/yellow-extensions-mittelhausen/blob/master/zip/mittelhausen.zip) och kopiera zip-fil till din `system/extensions` mapp. Högerklicka om du använder Safari.
 
 ## Formgivare
 

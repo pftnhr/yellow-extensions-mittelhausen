@@ -12,7 +12,7 @@ Alle Themendateien befinden sich im `system/themes`-Verzeichnis. Alle Layoutdate
 
 ## Installation
 
-[Erweiterung herunterladen](https://github.com/pftnhr/yellow-extensions/releases/download/mittelhausen/mittelhausen.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
+[Erweiterung herunterladen](https://github.com/pftnhr/yellow-extensions-mittelhausen/blob/master/zip/mittelhausen.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
 ## Designer
 

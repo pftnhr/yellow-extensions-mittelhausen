@@ -12,7 +12,7 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 ## Installation
 
-[Download extension](https://github.com/pftnhr/yellow-extensions/releases/download/mittelhausen/mittelhausen.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/pftnhr/yellow-extensions-mittelhausen/blob/master/zip/mittelhausen.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 ## Designer
 
